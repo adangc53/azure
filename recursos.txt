@@ -20,3 +20,6 @@ https://www.azuredevopslabs.com/labs/vstsextend/github-azureboards/
 
 Agile Planning and Portfolio Management with Azure Boards
 https://www.azuredevopslabs.com/labs/azuredevops/agile/
+
+Libro gratuito de Entity Framework Core (Módulo 1) en formato Kindle (SÓLO HOY 9 de Marzo)
+https://www.amazon.com/dp/B07PJ1QF43/
